@@ -1,0 +1,2 @@
+username#Password#Fname#Lname#DOB#hpNumber#address#role
+manager#123#benny#yong#23.03.97#012345688#PH#manager

@@ -1,0 +1,4 @@
+username#Password#Fname#Lname#DOB#hpNumber#address#role
+tp045751#123#Benny#Yong#23/3/1997#0168771776#PH#customer
+customer#123#b#y#23/3/97#0123456789#APU#customer
+aaa#aa#aaa#a#aa#a#a#a
